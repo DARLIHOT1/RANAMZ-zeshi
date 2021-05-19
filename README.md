@@ -1,7 +1,7 @@
 ### Hi there 👋im Rana MZ
 ### NAM TU SUNA HUGA
 ### Facebook : Rana MZ
-### You Tube : Rana 
+### You Tube : Rana MZ
 <!--
 **RANAMZ-zeshi/RANAMZ-zeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
